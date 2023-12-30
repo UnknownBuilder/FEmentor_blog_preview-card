@@ -61,7 +61,7 @@ I'm going to expand my skills in Grid going forward. Perhaps the next project I'
 ## Author
 
 - Github - [Developing Hephaestus](https://github.com/UnknownBuilder)
-- Frontend Mentor - [@UnknownBuilder](https://www.frontendmentor.io/profile/UnknownBuilder
+- Frontend Mentor - [@UnknownBuilder](https://www.frontendmentor.io/profile/UnknownBuilder)
 
 
 
